@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react_docker_githubpages_test/static/css/main.de7b3fd5.css",
-    "main.js": "/react_docker_githubpages_test/static/js/main.090cd9de.js",
+    "main.css": "/react_docker_githubpages_test/static/css/main.c199543c.css",
+    "main.js": "/react_docker_githubpages_test/static/js/main.ebe240b5.js",
     "index.html": "/react_docker_githubpages_test/index.html",
-    "main.de7b3fd5.css.map": "/react_docker_githubpages_test/static/css/main.de7b3fd5.css.map",
-    "main.090cd9de.js.map": "/react_docker_githubpages_test/static/js/main.090cd9de.js.map"
+    "main.c199543c.css.map": "/react_docker_githubpages_test/static/css/main.c199543c.css.map",
+    "main.ebe240b5.js.map": "/react_docker_githubpages_test/static/js/main.ebe240b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.de7b3fd5.css",
-    "static/js/main.090cd9de.js"
+    "static/css/main.c199543c.css",
+    "static/js/main.ebe240b5.js"
   ]
 }
